@@ -1,0 +1,69 @@
+@font-face{
+font-family: 'fontick';
+src:url('../fonts/fontick.otf');
+font-weight: normal;
+font-style:  normal;
+}
+@font-face {
+ font-family: "Open Sans";
+ src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+        url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+}
+p{
+color:#7FFFD4;
+font-size: 20pt;
+margin:39px;
+font-family: 'Lobster', cursive;
+}
+div{
+width: 70%;
+margin: auto;
+background-color: gold;
+padding: 50px
+box-shadow: 0 0 0 10px 1px rgba(0,0,0,0.2)
+}
+
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+
+
+a{
+	text-decoration: none;
+	color: #610094;
+	display: block;
+	margin:20px 0;
+	border-bottom: 2px solid transparent;
+	transition: 1s ease-in
+	
+}
+a:hover{
+	border-bottom-color: #204051;
+}
+
+body{
+	font-size: 20px;
+	font-family:'Bellota', cursive;
+	color: dodgerbly;
+}
+
+
+		
+
+p{
+color:#7FFFD4;
+font-size: 20pt;
+margin:39px;
+font-family: 'Lobster', cursive;
+}
+
+
+img{
+	max-width: :100%;
+	display:block;
+}
