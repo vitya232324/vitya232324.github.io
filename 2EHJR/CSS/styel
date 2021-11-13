@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+   background-color: #eee;
+}
+.main{
+	background-color: #fff;
+	display:flex;
+	width: 95%;
+	max-width:1000px;
+	margin:auto;
+	box-shadow:
+}
+
