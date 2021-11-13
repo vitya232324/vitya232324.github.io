@@ -18,9 +18,7 @@ font-family: 'Lobster', cursive;
 div{
 width: 70%;
 margin: auto;
-background-color: gold;
-padding: 50px
-box-shadow: 0 0 0 10px 1px rgba(0,0,0,0.2)
+background-color: gold; 
 }
 
 
@@ -31,25 +29,9 @@ box-shadow: 0 0 0 10px 1px rgba(0,0,0,0.2)
 
 }
 
-
-
-a{
-	text-decoration: none;
-	color: #610094;
-	display: block;
-	margin:20px 0;
-	border-bottom: 2px solid transparent;
-	transition: 1s ease-in
-	
-}
-a:hover{
-	border-bottom-color: #204051;
-}
-
 body{
 	font-size: 20px;
 	font-family:'Bellota', cursive;
-	color: dodgerbly;
 }
 
 
