@@ -1,0 +1,47 @@
+@media all and (min-width: 1150px){
+	.trsprnt:hover{
+		background-color: #00897b;
+		border-color: transparent;
+	}
+	.green:hover{
+		border: 2px solid;
+		border-color: transparent;
+	}
+	.nav-link:hover{
+		background-color: black;
+		color: white;
+	}
+}
+@media all and (max-width: 768){
+	.nav-wraper{
+		overflow: auto;
+		white-space: nowrap;
+	}
+	.logo, search-wrapper, .topnav{
+		display: inline-block;
+	}
+	.h1{
+		font-size:  8vw;
+	}
+	.heder-btn{
+		width:90vw;
+		height: 60px;
+		margin-top: 15px;
+	}
+	.heder-btn +.heder-btn{
+		margin-left: 0;
+	}
+	.section-subtile{
+      width: 85%;
+	}
+	.second-item, .firsr-item{
+		width: 90px;
+		margin: 20px auto;
+		padding-left: 10%;
+		padding-right: 10px;
+	}
+	.first-box{
+		flex-wrap:wrap;	
+	
+
+}
